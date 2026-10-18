@@ -1,11 +1,11 @@
 {
   "id": "nickelodeon-pluto",
-  "name": "Nickelodeon en Pluto TV",
-  "version": "1.0.2",
+  "name": "Pluto TV: Nick y Reality",
+  "version": "2.0.0",
   "apiVersion": 4,
   "entry": "plugin.js",
   "icon": "icon.png",
-  "description": "Series y películas de Nickelodeon gratis, en español",
+  "description": "Series de Nickelodeon y realities gratis, en español",
   "hosts": [
     "boot.pluto.tv",
     "ipv4.pluto.tv",
