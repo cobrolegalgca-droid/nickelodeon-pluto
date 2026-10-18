@@ -13,6 +13,8 @@ Series y películas de **Nickelodeon** que Pluto TV ofrece gratis en Latinoamér
 - **Reproducir** el capítulo o la película en HLS, con la sesión anónima que Pluto TV entrega sola.
 - **Descargar** para ver sin conexión (HLS en VOD con cifrado AES-128, que Kino guarda).
 
+El catálogo sale de las categorías **Nickelodeon Kids** y **Nickelodeon Teen** de Pluto TV, más los títulos de Nick Jr. que Pluto tiene en la región.
+
 No pide usuario, contraseña, región ni dirección de servidor. No usa ninguna cuenta: Pluto TV
 entrega una sesión de invitado anónima.
 
@@ -32,7 +34,7 @@ En Kino: **Ajustes → Plugins → Agregar** (en el celular, menú ☰ → Plugi
 - Kino **0.9.44 o más nuevo** (`apiVersion` 4).
 - Pluto TV tiene que estar disponible en el país de la persona: el catálogo sale de su API pública
   y el video lo entrega su propio servicio.
-- El catálogo va escrito en el plugin (67 títulos verificados): si Pluto TV agrega o quita títulos,
+- El catálogo va escrito en el plugin (78 títulos verificados): si Pluto TV agrega o quita títulos,
   hace falta una versión nueva del plugin.
 - Este plugin **no** es oficial de Pluto TV ni de Paramount, y no está afiliado a Nickelodeon. Las
   marcas son de sus dueños; el ícono es un dibujo propio, no el logo de Nickelodeon.
