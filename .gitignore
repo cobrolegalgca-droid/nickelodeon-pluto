@@ -1,0 +1,7 @@
+.kino-storage.json
+.kino-cookies.json
+.kino-secrets.json
+sdk/config.json
+node_modules/
+*.pem
+.DS_Store

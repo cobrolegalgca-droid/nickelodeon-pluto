@@ -1,0 +1,33 @@
+{
+  "id": "nickelodeon-pluto",
+  "name": "Nickelodeon en Pluto TV",
+  "version": "1.0.0",
+  "apiVersion": 4,
+  "entry": "plugin.js",
+  "icon": "icon.png",
+  "description": "Series y películas de Nickelodeon gratis, en español",
+  "hosts": [
+    "boot.pluto.tv",
+    "ipv4.pluto.tv",
+    "service-vod.clusters.pluto.tv",
+    "images.pluto.tv",
+    "plutotv.net",
+    "*.plutotv.net"
+  ],
+  "streamHosts": "any",
+  "capabilities": [
+    "search",
+    "home",
+    "browse",
+    "episodes",
+    "resolve",
+    "download"
+  ],
+  "categories": [
+    "movies",
+    "series"
+  ],
+  "color": "#FF7A00",
+  "author": "cobrolegalgca-droid",
+  "homepage": "https://github.com/cobrolegalgca-droid/nickelodeon-pluto"
+}
